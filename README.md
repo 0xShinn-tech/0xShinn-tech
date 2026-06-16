@@ -1,7 +1,5 @@
 <div align="center">
 
-# 🎮 Gabriel Rangel
-
 ### 🟢 ONLINE | IN CYBERSPACE
 
 ```
