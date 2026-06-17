@@ -1,67 +1,90 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoKuroi&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20|%20Backend%20Developer%20|%20GNU/Linux&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoKuroi&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Cybersecurity%20Student%20|%20Backend%20Developer%20%20&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
   <img src="https://github.com/EchoKuroi.png?size=180" alt="EchoKuroi avatar" />
 </p>
 
-👋 Sobre mim
+<h2 align="center">👋 About Me</h2>
 
-Olá! Eu sou **EchoKuroi**. Atualmente sou estudante do 3º semestre de **Segurança Cibernética** com foco total em **Red Teaming (Pentest)**. Além dos estudos de segurança ofensiva e fundamentos de redes de computadores, também desenvolvo projetos aplicando conhecimentos em Frontend e Backend.
-
-## 🧑‍💻 Perfil & Preferências
-
-* 🎓 **Status:** Estudante de Cybersegurança (3º Semestre)
-* 🎯 **Foco:** Red Teaming / Pentesting & Desenvolvimento
-* 🌐 **Idiomas:** Português (Nativo) | Inglês (Básico)
-* 🎮 **Games:** RPG / Souls-Like e FPS
-* 📚 **Livros:** Livros Psicológicos e Mangás
-* 🎯 **Hobbies:** Assistir animes, ler mangá e jogar
-
-<div>
-<h2 align="center"> 🔎Knowledge & Skills📖 </h2>
-</div>
-<div align="center">
-<p align="justify">Interests and Passions.<br></p>
 <p align="center">
-     <a href="https://github.com/EchoKuroi">
-        <img style="margin: 10px;" src="https://skillicons.dev/icons?i=html,css,js,react,cs,py,django,fastapi,bash,linux,arch,git&perline=6" alt="My Skills"/> 
-    </a>
+  Hello! I am <b>EchoKuroi</b>. I am currently a 3rd-semester <b>Cybersecurity</b> student fully focused on <b>Red Teaming (Pentesting)</b>.<br>
+  Besides offensive security studies and computer networking fundamentals, I also develop projects applying Frontend and Backend knowledge.
 </p>
-</div>
+
 <br>
 
-## 🛡️ Certificações Almejadas
+<h2 align="center">🧑‍💻 Profile & Preferences</h2>
 
-* 🔒 **OSCP** (Offensive Security Certified Professional)
-* 🌐 **CCNA** (Cisco Certified Network Associate)
-* 🐧 **LPI** (Linux Professional Institute)
+<p align="center">
+  🎓 <b>Status:</b> Cybersecurity Student (3rd Semester)<br>
+  🎯 <b>Focus:</b> Red Teaming / Pentesting & Development<br>
+  🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br>
+  🎮 <b>Games:</b> RPG / Souls-Like and FPS<br>
+  📚 <b>Books:</b> Psychological Books and Manga<br>
+  🎯 <b>Hobbies:</b> Watching anime, reading manga, and gaming
+</p>
 
-## 📊 GitHub
+<br>
+
+<h2 align="center">🔎 Knowledge & Skills 📖</h2>
+
+<p align="center">
+  Interests and Passions.<br><br>
+  <a href="https://github.com/EchoKuroi">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,py,django,fastapi,bash,git&perline=5" alt="My Skills"/> 
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">🛡️ Target Certifications</h2>
+
+<p align="center">
+  🔒 <b>OSCP</b> (Offensive Security Certified Professional)<br>
+  🌐 <b>CCNA</b> (Cisco Certified Network Associate)<br>
+  🐧 <b>LPI</b> (Linux Professional Institute)
+</p>
+
+<br>
+
+<h2 align="center">📊 GitHub</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EchoKuroi&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EchoKuroi&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </p>
 
-## 📦 Projetos destacados
+<br>
 
-* 🐍 **[Snake-Game](https://github.com/EchoKuroi/Snake-Game)**
-  Desenvolvimento do clássico jogo da cobrinha para aprimoramento de lógica.
+<h2 align="center">📦 Featured Projects</h2>
 
-* 🏓 **[Pong-Game](https://github.com/EchoKuroi/Pong-Game)**
-  Recriação do jogo Pong focada em fundamentos de programação.
+<p align="center">
+  🐍 <b><a href="https://github.com/EchoKuroi/Snake-Game">Snake-Game</a></b><br>
+  Development of the classic snake game for logic improvement.
+</p>
 
-* 📖 **[Jujutsu-Wiki](https://github.com/EchoKuroi/Jujutsu-Wiki)**
-  Uma wiki interativa dedicada ao universo de Jujutsu Kaisen.
+<p align="center">
+  🏓 <b><a href="https://github.com/EchoKuroi/Pong-Game">Pong-Game</a></b><br>
+  Recreation of the Pong game focused on programming fundamentals.
+</p>
 
-## 🔗 Contato
+<p align="center">
+  📖 <b><a href="https://github.com/EchoKuroi/Jujutsu-Wiki">Jujutsu-Wiki</a></b><br>
+  An interactive wiki dedicated to the Jujutsu Kaisen universe.
+</p>
+
+<br>
+
+<h2 align="center">🔗 Contact</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-rangel-a65bab2b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gabrielrangelsilva250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
 
-## 📈 Contador de Visitas
+<br>
+
+<h2 align="center">📈 Visitor Counter</h2>
 
 <p align="center">
   <img src="https://count.getloli.com/@EchoKuroi?name=EchoKuroi&theme=rule34" alt="EchoKuroi Visits" />
