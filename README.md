@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:374151&height=230&section=header&text=EchoDevv&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer&descSize=18&descAlignY=60" width="100%" />
 
 <p align="center">
-  <img src="https://github.com/EchoKuroi.png?size=180" alt="EchoDevv avatar" />
+  <img src="https://github.com/EchoDevv.png?size=180" alt="EchoDevv avatar" />
 </p>
 
 <h2 align="center">👋 About Me</h2>
