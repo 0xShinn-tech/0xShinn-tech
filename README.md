@@ -16,7 +16,7 @@
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 
 <p align="center">
-  🎓 <b>Status:</b> Software Engineering Student<br />
+  🎓 <b>Status:</b> Currently studying Cybersecurity, but in the future I plan to study Information Systems.<br />
   🎯 <b>Focus:</b> Backend Development (C# / .NET & Python)<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
