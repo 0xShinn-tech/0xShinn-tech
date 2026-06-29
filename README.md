@@ -31,7 +31,7 @@
 <p align="center">
   Interests and Tech Stack.<br /><br />
   <a href="https://github.com/0xShinn">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,fastapi,git,bash,html,css,js" alt="My Skills"/> 
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,git,bash,html,css,js" alt="My Skills"/> 
   </a>
 </p>
 
