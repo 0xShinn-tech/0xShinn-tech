@@ -1,65 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Pentest%20Enthusiast%20%7C%20Developer&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=GameDeveloper%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
 <p align="center">
   <img src="https://github.com/0xShinn-tech.png?size=180" alt="0xShinn avatar" />
 </p>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
-  Hello! I am <b>0xShinn</b>. I am a <b>Cybersecurity student</b> and <b>developer</b> currently pursuing my degree in <b>Technology in Cybersecurity</b> (3rd semester), with a specialized focus on the <b>Penetration Testing</b> track.<br />
-  I combine hands-on pentesting expertise with software development skills, conducting security assessments while building secure, scalable applications. My approach integrates offensive security knowledge with defensive coding practices.
+  Hello! I am <b>0xShinn</b>. I am a <b>Technology student</b> and <b>Web Developer</b> currently pursuing my degree in <b>Technology in Cybersecurity</b> (3rd semester), but nowadays my main focus is <b>Web Development</b>.<br />
+  I enjoy building secure, scalable, and well-structured applications, combining backend and frontend development with good coding practices and a security-aware mindset.
 </p>
 <br />
 <h2 align="center">🎓 Academic Background</h2>
 <p align="center">
   <b>🏫 Education:</b><br />
-  Technolog in Cybersecurity (3rd Semester in progress)<br /><br />
-  <b>🔐 Certifications I will obtain:</b><br />
-  ✅ Defensive Certified Penetration Tester (DCPT)<br />
-  ✅ Offensive Security Certified Professional (OSCP)<br />
-  ✅ Cisco Certified Network Associate (CCNA)
-</p>
-<br />
-<h2 align="center">🔴 DESEC Courses & Training</h2>
-<p align="center">
-  Currently pursuing advanced penetration testing training through <b>DESEC</b>.<br />
-  Courses focused on offensive security, ethical hacking, and practical pentesting methodologies.
+  Technology in Cybersecurity (3rd Semester in progress)<br /><br />
+  <b>📜 Future Plans:</b><br />
+  🎯 Postgraduate degree in Software Engineering (2027)<br />
+  🎯 Postgraduate degree in Software Architecture (2028)
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 <p align="center">
-  🎓 <b>Status:</b> Active Cybersecurity student (3rd semester) - Pentest track<br />
-  🎯 <b>Focus:</b> Penetration Testing & Secure Backend Development<br />
-  🔍 <b>Expertise:</b> Web Application Security, Network Security, System Exploitation & Backend Architecture<br />
-  💻 <b>Development:</b> Python, C# (.NET) & Secure Coding Practices<br />
+  🎓 <b>Status:</b> Technology student (3rd semester)<br />
+  🎯 <b>Focus:</b> Web Development (Backend & Frontend)<br />
+  🔍 <b>Interests:</b> Web Application Architecture, APIs, UI/UX & Clean Code<br />
+  💻 <b>Development:</b> Python, C# (.NET), JavaScript & Good Coding Practices<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
-  📚 <b>Books:</b> Cybersecurity & Psychological Books, Manga<br />
-  🎯 <b>Hobbies:</b> Watching anime, reading manga, gaming, security research, and coding
+  📚 <b>Books:</b> Technology & Psychological Books, Manga<br />
+  🎯 <b>Hobbies:</b> Watching anime, reading manga, gaming, coding, and building projects
 </p>
 <br />
 <h2 align="center">🔎 Knowledge & Skills 📖</h2>
 <p align="center">
-  Development, Security & Penetration Testing Stack.<br /><br />
+  Web Development Stack.<br /><br />
   <a href="https://github.com/0xShinn">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,bash,kali,git,html,css,js,linux" alt="My Skills"/> 
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,git,linux,bash" alt="My Skills"/> 
   </a>
 </p>
 <p align="center">
-  <b>💻 Development Stack:</b> Python | Django | FastAPI | C# (.NET) | JavaScript | Git
+  <b>💻 Development Stack:</b> Python | Django | FastAPI | C# (.NET) | JavaScript | HTML | CSS | Git
 </p>
 <br />
 <h2 align="center">📦 Featured Projects</h2>
-<p align="center">
-  🐍 <b><a href="https://github.com/0xShinn/Snake-Game">Snake-Game</a></b><br />
-  Development of the classic snake game for logic and programming improvement.
-</p>
-<p align="center">
-  🏓 <b><a href="https://github.com/0xShinn/Pong-Game">Pong-Game</a></b><br />
-  Recreation of the Pong game focused on programming fundamentals and game mechanics.
-</p>
-<p align="center">
-  📖 <b><a href="https://github.com/0xShinn/Jujutsu-Wiki">Jujutsu-Wiki</a></b><br />
-  An interactive wiki dedicated to the Jujutsu Kaisen universe with web development focus.
-</p>
+<p align="center"><i>Atualizado automaticamente a partir dos meus repositórios no GitHub 🤖</i></p>
+
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
+
 <br />
 <h2 align="center">🔗 Contact</h2>
 <p align="center">
