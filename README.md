@@ -4,25 +4,19 @@
 </p>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
-  Hello! I am <b>0xShinn</b>. I am a <b>Technology student</b> and <b>Web Developer</b> currently pursuing my degree in <b>Technology in Cybersecurity</b> (3rd semester), but nowadays my main focus is <b>Web Development</b>.<br />
+  Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Web Development</b>.<br />
   I enjoy building secure, scalable, and well-structured applications, combining backend and frontend development with good coding practices and a security-aware mindset.
 </p>
 <br />
-<h2 align="center">🎓 Academic Background</h2>
+<h2 align="center">🎓 Future Plans</h2>
 <p align="center">
-  <b>🏫 Education:</b><br />
-  Technology in Cybersecurity (3rd Semester in progress)<br /><br />
-  <b>📜 Future Plans:</b><br />
   🎯 Postgraduate degree in Software Engineering (2027)<br />
   🎯 Postgraduate degree in Software Architecture (2028)
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 <p align="center">
-  🎓 <b>Status:</b> Technology student (3rd semester)<br />
-  🎯 <b>Focus:</b> Web Development (Backend & Frontend)<br />
   🔍 <b>Interests:</b> Web Application Architecture, APIs, UI/UX & Clean Code<br />
-  💻 <b>Development:</b> Python, C# (.NET), JavaScript & Good Coding Practices<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
   📚 <b>Books:</b> Technology & Psychological Books, Manga<br />
@@ -31,21 +25,10 @@
 <br />
 <h2 align="center">🔎 Knowledge & Skills 📖</h2>
 <p align="center">
-  Web Development Stack.<br /><br />
   <a href="https://github.com/0xShinn">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,git,linux,bash" alt="My Skills"/> 
   </a>
 </p>
-<p align="center">
-  <b>💻 Development Stack:</b> Python | Django | FastAPI | C# (.NET) | JavaScript | HTML | CSS | Git
-</p>
-<br />
-<h2 align="center">📦 Featured Projects</h2>
-<p align="center"><i>Atualizado automaticamente a partir dos meus repositórios no GitHub 🤖</i></p>
-
-<!-- PROJECTS:START -->
-<!-- PROJECTS:END -->
-
 <br />
 <h2 align="center">🔗 Contact</h2>
 <p align="center">
