@@ -10,8 +10,8 @@
 <br />
 <h2 align="center">🎓 Future Plans</h2>
 <p align="center">
-  🎯 Postgraduate degree in Software Engineering (2027)<br />
-  🎯 Postgraduate degree in Software Architecture (2028)
+  🎯 Postgraduate degree in Software Engineering <br />
+  🎯 Postgraduate degree in Software Architecture 
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
