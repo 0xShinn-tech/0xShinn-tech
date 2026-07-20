@@ -16,7 +16,7 @@
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 <p align="center">
-  🔍 <b>Interests:</b> Web Application Architecture, APIs, UI/UX & Clean Code<br />
+  🔍 <b>Interests:</b> Web Application Architecture, APIs,  & Clean Code<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
   📚 <b>Books:</b> Technology & Psychological Books, Manga<br />
