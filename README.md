@@ -1,22 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=GameDeveloper%20Enthusiast&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descSize=18&descAlignY=60" width="100%" />
 <p align="center">
   <img src="https://github.com/0xShinn-tech.png?size=180" alt="0xShinn avatar" />
 </p>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
-  Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Web Development</b>.<br />
-  I enjoy building secure, scalable, and well-structured applications, combining backend and frontend development with good coding practices and a security-aware mindset.
+  Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Backend Development</b>.<br />
+  I enjoy building secure, scalable, and well-structured applications, combining backend development with good coding practices and a security-aware mindset.
 </p>
 <br />
 <h2 align="center">🎓 Future Plans</h2>
 <p align="center">
   🎯 Postgraduate degree in Software Engineering <br />
-  🎯 Postgraduate degree in Software Architecture 
+  🎯 Postgraduate degree in Machine Learning
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
 <p align="center">
-  🔍 <b>Interests:</b> Web Application Architecture, APIs,  & Clean Code<br />
+  🔍 <b>Interests:</b> Web Application Architecture, APIs, & Clean Code<br />
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
   📚 <b>Books:</b> Technology & Psychological Books, Manga<br />
