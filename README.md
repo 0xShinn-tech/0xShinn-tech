@@ -1,7 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descSize=18&descAlignY=60" width="100%" />
-<p align="center">
-  <img src="https://github.com/0xShinn-tech.png?size=180" alt="0xShinn avatar" />
-</p>
 <h2 align="center">👋 About Me</h2>
 <p align="center">
   Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Backend Development</b>.<br />
