@@ -20,7 +20,7 @@
   🌐 <b>Languages:</b> Portuguese (Native) | English (Basic)<br />
   🎮 <b>Games:</b> RPG / Souls-Like and FPS<br />
   📚 <b>Books:</b> Technology & Psychological Books, Manga<br />
-  🎯 <b>Hobbies:</b> Watching anime, reading manga, gaming, coding, and building projects
+  🎯 <b>Hobbies:</b> Watching anime, reading manga, gaming, game development, and coding personal projects
 </p>
 <br />
 <h2 align="center">🔎 Knowledge & Skills 📖</h2>
@@ -35,7 +35,6 @@
   <a href="https://www.linkedin.com/in/gabriel-rangel-a65bab2b0" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:gabrielrangelsilva250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
-<br />
 <h2 align="center">📈 Visitor Counter</h2>
 <p align="center">
   <img src="https://m.h4ck.org.cn/@0xShinn?name=0xShinn&theme=booru-r6gdrawfriends&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="0xShinn Visits" />
