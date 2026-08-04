@@ -40,3 +40,5 @@
   <img src="https://m.h4ck.org.cn/@0xShinn?name=0xShinn&theme=booru-r6gdrawfriends&padding=10&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" alt="0xShinn Visits" />
 </p>
 <br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=120&section=footer&animation=twinkling)
