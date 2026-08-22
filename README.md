@@ -7,8 +7,7 @@
 <br />
 <h2 align="center">🎓 Future Plans</h2>
 <p align="center">
-  🎯 Postgraduate degree in Software Engineering <br />
-  🎯 Postgraduate degree in Machine Learning
+  🎯 Master's Degree in Computer Science <br />
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
