@@ -8,10 +8,10 @@
 <h2 align="center">🎓 Future Plans</h2>
 <p align="center">
   🎯 Master's Degree in Computer Science <br />
-  🎯 CCNA Certification
-  🎯 CEH  Certification
-  🎯 OSCP Certification
-  🎯 ISO 27001
+  🎯 CCNA Certification<br />
+  🎯 CEH  Certification<br />
+  🎯 OSCP Certification<br />
+  🎯 ISO 27001<br />
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
