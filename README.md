@@ -1,13 +1,17 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1116,50:1F2933,100:DC2626&height=230&section=header&text=0xShinn&fontSize=50&fontColor=00FF00&animation=twinkling&fontAlignY=32&desc=Backend%20Developer&descSize=18&descAlignY=60" width="100%" />
 <h2 align="center">👋 About Me</h2>
 <p align="center">
-  Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Backend Development</b>.<br />
+  Hello! I am <b>0xShinn</b>, a <b>Technology in Cybersecurity</b> student whose main focus today is <b>Backend Development and Pentester Enthusiast</b>.<br />
   I enjoy building secure, scalable, and well-structured applications, combining backend development with good coding practices and a security-aware mindset.
 </p>
 <br />
 <h2 align="center">🎓 Future Plans</h2>
 <p align="center">
   🎯 Master's Degree in Computer Science <br />
+  🎯 CCNA Certification
+  🎯 CEH  Certification
+  🎯 OSCP Certification
+  🎯 ISO 27001
 </p>
 <br />
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
