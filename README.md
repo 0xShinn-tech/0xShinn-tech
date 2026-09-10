@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://github.com/0xShinn">
-    <img src="https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,git,linux,bash" alt="My Skills" /> 
+    <img src="https://skillicons.dev/icons?i=py,django,fastapi,html,css,js,git,linux,bash,java,sql,docker" alt="My Skills" /> 
   </a>
 </p>
 
