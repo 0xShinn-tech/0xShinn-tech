@@ -3,18 +3,42 @@
 <h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  Hello! I am <b>0xShinn</b>, a <b>Cybersecurity</b> student focused on <b>Backend Development</b> and an aspiring <b>Penetration Tester</b>.<br />
+  Hello! I am <b>0xShinn</b>, a <b>Cybersecurity</b> student focused on <b>Backend Development</b>.<br />
   I enjoy building secure, scalable, and well-structured applications, combining backend engineering with clean code practices and a security-first mindset.
 </p>
 
-<h2 align="center">🎓 Future Plans</h2>
+<h2 align="center">🎯 Currently Interested In</h2>
 
 <p align="center">
-  🎯 Master's Degree in Computer Science<br />
-  🎯 CCNA Certification<br />
-  🎯 CEH Certification<br />
-  🎯 OSCP Certification<br />
-  🎯 ISO/IEC 27001 Certification<br />
+  🛡️ <b>Cyber Security Engineer</b>
+</p>
+
+<h2 align="center">🏅 Certifications Roadmap</h2>
+
+<p align="center">
+  <b>CCNA</b> <i>(in progress)</i><br />
+  │<br />
+  ▼<br />
+  <b>Security+</b> <i>(in progress)</i><br />
+  │<br />
+  ▼<br />
+  <b>SC-500</b> <i>(in progress)</i><br />
+  │<br />
+  ▼<br />
+  <b>CISSP</b> <i>(in progress)</i><br />
+  │<br />
+  ▼<br />
+  <b>Training for advanced technical skills</b><br />
+  SANS SEC530
+</p>
+
+<h2 align="center">📚 Education</h2>
+
+<p align="center">
+  🎓 <b>Cybersecurity Technologist</b><br />
+  2025 – 2027 <i>(5 semesters)</i><br /><br />
+  🎓 <b>Master's Degree in Computer Science</b><br />
+  2028 – 2030 <i>(4 semesters)</i>
 </p>
 
 <h2 align="center">🧑‍💻 Profile & Preferences</h2>
